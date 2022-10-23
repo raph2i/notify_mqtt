@@ -1,9 +1,9 @@
 {
   "domain": "notify_mqtt",
   "name": "Notify MQTT",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "documentation": "",
   "requirements": [],
   "dependencies": ["mqtt"],
-  "codeowners": ["@cerebrate"]
+  "codeowners": ["@cerebrate", "@raph2i"]
 }
