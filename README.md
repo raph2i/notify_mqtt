@@ -23,4 +23,6 @@ notify:
   * required: true
   * type: string
 
-Notifications will be delivered to the MQTT topic as a string representation of a JSON object containing the message, title, and other data send to the notification service.
+Notifications will be delivered to the MQTT topic as a string containing the message, title, and other data send to the notification service.
+
+Thanks to https://github.com/cerebrate 
